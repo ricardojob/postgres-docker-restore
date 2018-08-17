@@ -1,0 +1,1 @@
+pg_restore --host localhost --port 5432 --username "postgres" --dbname "clientes" --no-password  --verbose "aula.backup"
